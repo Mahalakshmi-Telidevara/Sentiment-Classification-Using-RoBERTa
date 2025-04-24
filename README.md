@@ -18,7 +18,7 @@ The dataset used in this project is a Twitter Multi-Class Sentiment Dataset sour
 
 ## Steps to Run
   ### Download the Dataset:
-      Download the dataset.
+      Download the dataset(twitter_multi_class_sentiment.csv).
   ### Clone the Repository:
       git clone https://github.com/Mahalakshmi-Telidevara/Sentiment-Classification-Using-RoBERTa.git
       cd Sentiment-Classification-Using-RoBERTa
