@@ -17,12 +17,12 @@ The dataset used in this project is a Twitter Multi-Class Sentiment Dataset sour
     5. Google Colab (T4 GPU): Used for training the models, leveraging the power of the T4 GPU for faster computations.
 
 ## Steps to Run
-  # Download the Dataset:
+  ### Download the Dataset:
       Download the dataset.
-  # Clone the Repository:
+  ### Clone the Repository:
       git clone https://github.com/Mahalakshmi-Telidevara/Sentiment-Classification-Using-RoBERTa.git
       cd Sentiment-Classification-Using-RoBERTa
-  # Open the Google Colab Notebook:
+  ### Open the Google Colab Notebook:
       1. Import the downloaded dataset.
       2. Open the Sentiment_classification_Using_RoBERTa.ipynb file in Google Colab.
       3. Run the notebook to execute the sentiment analysis using the RoBERTa model.
