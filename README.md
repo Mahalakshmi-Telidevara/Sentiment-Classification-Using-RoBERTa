@@ -29,3 +29,7 @@ The dataset used in this project is a Twitter Multi-Class Sentiment Dataset sour
       
 ## Conclusion
 This project demonstrates how to build and deploy a sentiment classification application using RoBERTa. The application classifies sentiments into multiple categories based on a dataset of Twitter sentiments. The fine-tuning of RoBERTa provides the best performance for sentiment classification compared to traditional machine learning models like SVM and Random Forest.
+
+
+
+Video Demo Link: https://www.linkedin.com/posts/telidevara_nlp-roberta-sentimentanalysis-activity-7343499719874093056-NYS-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6GP6UB7FIFXQO9jnEYv7sYnYPoLDj2vQI
